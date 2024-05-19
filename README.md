@@ -1,2 +1,2 @@
 # Project-Restaurant website
- Using HTML,CSS,JavaScript the website has been created
+ Using HTML,CSS,JavaScript the project has been created.
